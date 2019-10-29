@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <p id="money"> </p>
+    <button onclick="Turbolinks.visit('tech.html');">Tech</button>
+    <button onclick="Turbolinks.visit('restaurants.html');">Restaurants</button>
+    <button onclick="Turbolinks.visit('cryptocurrencies.html');">Cryptocurrencies</button>
+    <script>
+      document.getElementById("money").innerHTML = localStorage.money;
+    </script>
+  </body>
+</html>

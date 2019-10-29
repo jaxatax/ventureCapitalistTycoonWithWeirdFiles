@@ -1,0 +1,414 @@
+thecoderschool@theCoderSchool:~$ cd Downloads/
+thecoderschool@theCoderSchool:~/Downloads$ ls -la
+total 535724
+drwx------  3 thecoderschool thecoderschool      4096 Oct 29 18:13  .
+drwxr-xr-x 27 thecoderschool thecoderschool      4096 Oct 12 15:09  ..
+-rw-rw-r--  1 thecoderschool thecoderschool     34661 Jul 12 15:18 '150d3eaa-f3d5-4c21-b7f9-e8ba358a8680 (1).jpeg'
+-rw-rw-r--  1 thecoderschool thecoderschool     34661 Jul 12 15:17  150d3eaa-f3d5-4c21-b7f9-e8ba358a8680.jpeg
+-rw-rw-r--  1 thecoderschool thecoderschool     35595 Jul 12 13:29  250px-Dr._Octopus_Marvel.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    123362 Sep  5 18:13  267920952007201.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     22041 Jun 11 16:13  302ec1b1a634cbf0d27025d08785dbb5.png
+-rw-rw-r--  1 thecoderschool thecoderschool       969 Aug 31 11:18  4d8349e217c1d18.png
+-rw-rw-r--  1 thecoderschool thecoderschool       586 Jun 11 16:20  5b45874013041d7baa06206f3ff26fc2.png
+-rw-rw-r--  1 thecoderschool thecoderschool      4139 Jun 11 16:16  5e19eda0f70691e06d0e39dca123f5e4.png
+-rw-rw-r--  1 thecoderschool thecoderschool      1424 Jun 11 16:17  6996abffd81d6116a26e94805baa02a0.png
+-rw-rw-r--  1 thecoderschool thecoderschool    372643 Jun 12 17:50  7lk3m9_large.png
+-rw-rw-r--  1 thecoderschool thecoderschool    104014 Jul 11 17:12  86bdd3363462d26.png
+-rw-rw-r--  1 thecoderschool thecoderschool     58742 Jul 11 17:17  ACQuqN.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool      3786 Jun  1 12:24  alien.png
+-rw-rw-r--  1 thecoderschool thecoderschool     31874 Jun  1 12:19  alienspritesheet.png
+-rw-rw-r--  1 thecoderschool thecoderschool     12765 Jun 20 17:22 'Anime girl template (1).png'
+-rw-rw-r--  1 thecoderschool thecoderschool      4110 Jun 20 17:15 'Anime girl template.png'
+-rw-rw-r--  1 thecoderschool thecoderschool    587803 Jul 12 13:34  background2.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    236376 Jun  1 12:14  background.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    123362 Sep  5 18:14  beachscene2.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14182 Sep  5 18:11  beachscene.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    190413 Jul 12 13:36  beaker.png
+-rw-rw-r--  1 thecoderschool thecoderschool     10459 Jun 20 17:25 'BETTER anime girl.png'
+-rw-rw-r--  1 thecoderschool thecoderschool     10989 Jul 11 16:17  bg.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    105911 Jun 15 10:09  blank-1299404_960_720.png
+-rw-rw-r--  1 thecoderschool thecoderschool  65961404 Oct 29 18:09  Brackets.Release.1.14.64-bit.deb
+-rw-rw-r--  1 thecoderschool thecoderschool     13515 Jul 18 18:44  briefcase10.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     12295 Jul 18 18:45  briefcase11.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13827 Jul 18 18:45  briefcase12.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13989 Jul 18 18:45  briefcase13.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13456 Jul 18 18:45  briefcase14.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13697 Jul 18 18:45  briefcase15.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14029 Jul 18 18:46  briefcase16.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13192 Jul 18 18:46  briefcase17.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14000 Jul 18 18:46  briefcase19.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14129 Jul 18 18:46 'briefcase (1).jpg'
+-rw-rw-r--  1 thecoderschool thecoderschool     11754 Jul 18 18:42  briefcase1.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14971 Jul 18 18:47  briefcase20.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13709 Jul 18 18:47  briefcase21.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     15134 Jul 18 18:47  briefcase22.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     15076 Jul 18 18:47  briefcase23.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14380 Jul 18 18:47  briefcase24.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14714 Jul 18 18:48  briefcase25.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     15133 Jul 18 18:48  briefcase26.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     14129 Jul 18 18:46 'briefcase (2).jpg'
+-rw-rw-r--  1 thecoderschool thecoderschool     13092 Jul 18 18:42  briefcase2.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13245 Jul 18 18:43  briefcase3.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     12965 Jul 18 18:43  briefcase4.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     12990 Jul 18 18:43  briefcase5.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13333 Jul 18 18:43  briefcase6.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     12369 Jul 18 18:44  briefcase7.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13472 Jul 18 18:44  briefcase8.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     13432 Jul 18 18:44  briefcase9.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     28010 Jul 18 18:35  briefcase.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    198962 Jul  9 13:31  bumblebee.png
+-rw-rw-r--  1 thecoderschool thecoderschool    344542 Aug  2 15:35  cloud.gif
+-rw-rw-r--  1 thecoderschool thecoderschool  54341964 Jul 19 14:13  code_1.36.1-1562627527_amd64.deb
+-rw-rw-r--  1 thecoderschool thecoderschool     46285 Oct  3 17:06  condenser-microphone-clip-art-vector-images-amp-illustrations-microphone-clip-art-370_464.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    125352 Oct  3 17:09  condenser-microphone-clip-art-vector-images-amp-illustrations-microphone-clip-art-370_464-removebg-preview.png
+-rw-rw-r--  1 thecoderschool thecoderschool     28854 Aug 31 11:47  dino2.sprite3
+-rw-rw-r--  1 thecoderschool thecoderschool      3249 Jul 11 16:13  dino.png
+-rw-rw-r--  1 thecoderschool thecoderschool      7618 Aug  5 13:23  download.jpeg
+-rw-rw-r--  1 thecoderschool thecoderschool      9964 Aug  5 13:18  download.png
+-rw-rw-r--  1 thecoderschool thecoderschool     85088 Jun 29 11:16  earth.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool     56289 Sep 12 16:35 'encrypted-tbn0_gstatic_com-images (1).png'
+-rw-rw-r--  1 thecoderschool thecoderschool     56289 Sep 12 16:36 'encrypted-tbn0_gstatic_com-images (2).png'
+-rw-rw-r--  1 thecoderschool thecoderschool     56289 Sep 12 16:35  encrypted-tbn0_gstatic_com-images.png
+-rw-rw-r--  1 thecoderschool thecoderschool   5712661 Jul 11 14:53  F66CFA1D-B376-4ED5-8122-8267208C44B1.MOV
+-rw-rw-r--  1 thecoderschool thecoderschool    529106 Jul  9 14:07  fireball.png
+-rw-rw-r--  1 thecoderschool thecoderschool      9920 Jul  9 14:04 'fire ball.webp'
+-rw-rw-r--  1 thecoderschool thecoderschool   9485487 Jul 24 09:36 'flash_player_ppapi_linux.x86_64 (1).tar.gz'
+-rw-rw-r--  1 thecoderschool thecoderschool   9485487 Jul 11 16:18  flash_player_ppapi_linux.x86_64.tar.gz
+-rw-rw-r--  1 thecoderschool thecoderschool     45382 Sep  6 17:35  flowermound-IMG_13021566933795-removebg-preview.png
+-rw-rw-r--  1 thecoderschool thecoderschool   1209895 Aug 30 16:19  giphy.gif
+-rw-rw-r--  1 thecoderschool thecoderschool  91559896 Oct 29 18:13  GitHubDesktopSetup.exe
+-rw-rw-r--  1 thecoderschool thecoderschool    136804 Jun 20 17:46 'Gryffindor Common Room.jpg'
+-rw-rw-r--  1 thecoderschool thecoderschool     89778 Jul  2 16:05  heart-sprite-png.png
+-rw-rw-r--  1 thecoderschool thecoderschool      5787 Jul  9 13:36 'iorn man'
+-rw-rw-r--  1 thecoderschool thecoderschool    219668 Jul  9 14:14 'iorn man.jpg'
+-rw-rw-r--  1 thecoderschool thecoderschool     43816 Jul  5 16:18  ketchup.htm
+-rw-rw-r--  1 thecoderschool thecoderschool     25050 Jul  5 16:20  ketchup_png_750565.png
+drwxrwxr-x  2 thecoderschool thecoderschool      4096 Jun 21 18:47  LGPL
+-rw-rw-r--  1 thecoderschool thecoderschool  18894432 Jun 21 18:47  libpepflashplayer.so
+-rw-rw-r--  1 thecoderschool thecoderschool   2792147 Jun 21 18:47  license.pdf
+-rw-rw-r--  1 thecoderschool thecoderschool     25832 Aug  2 15:47  lightning.gif
+-rw-rw-r--  1 thecoderschool thecoderschool      2222 Jun 21 18:47  manifest.json
+-rw-rw-r--  1 thecoderschool thecoderschool      8855 Jun  1 12:25  moonbg.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool    170442 Jun 11 16:13  MTiZGmj.png
+-rw-rw-r--  1 thecoderschool thecoderschool     62395 Aug 31 12:48  ninja-152415_640.png
+-rw-rw-r--  1 thecoderschool thecoderschool        76 Jun 21 18:47  notice.txt
+-rw-rw-r--  1 thecoderschool thecoderschool   1687661 Jul 12 13:33  octopus.png
+-rw-rw-r--  1 thecoderschool thecoderschool   4384455 Jun 19 16:15  OpenWorldTutorialStarterTemplate.zip
+-rw-rw-r--  1 thecoderschool thecoderschool      4461 Jul 11 10:15  Paddle.sprite3
+-rw-rw-r--  1 thecoderschool thecoderschool     68838 Jul 12 13:37  PinClipart.com_bikini-clipart_1325165.png
+-rw-rw-r--  1 thecoderschool thecoderschool      1664 Jun 29 12:12  pinkmuffin.webp
+-rw-rw-r--  1 thecoderschool thecoderschool      5078 Oct 23 20:03  piperthebird.jpeg
+-rw-rw-r--  1 thecoderschool thecoderschool      1664 Jun 29 12:12  princess-cupcake-pink-cute-muffin-kawaii-queen-trucker-cap.webp
+-rw-rw-r--  1 thecoderschool thecoderschool 138126131 Jun 22 14:29 'processing-3.5.3-linux64 (1).tgz'
+-rw-rw-r--  1 thecoderschool thecoderschool 138126131 Jun  8 11:08  processing-3.5.3-linux64.tgz
+-rw-rw-r--  1 thecoderschool thecoderschool      9486 Aug  6 13:14  pusheen.gif
+-rw-rw-r--  1 thecoderschool thecoderschool     21094 Aug  6 13:07  pusheen.png
+-rw-rw-r--  1 thecoderschool thecoderschool      2662 Jun 21 18:47  readme.txt
+-rw-rw-r--  1 thecoderschool thecoderschool      3835 Jun 29 10:25  red-transparent-line-1.png
+-rw-rw-r--  1 thecoderschool thecoderschool     24190 Jun  1 12:28  rock.png
+-rw-rw-r--  1 thecoderschool thecoderschool     54188 Oct 15 14:47  sans.jpeg
+-rw-rw-r--  1 thecoderschool thecoderschool    164380 Aug 30 16:10  source.gif
+-rw-rw-r--  1 thecoderschool thecoderschool     13098 Jun  4 17:16  Sprite4.sprite3
+-rw-rw-r--  1 thecoderschool thecoderschool     11892 Aug 29 16:29  star.png
+-rw-rw-r--  1 thecoderschool thecoderschool      4052 Jun 11 16:11  TITLE.png
+-rw-rw-r--  1 thecoderschool thecoderschool    330231 Jul  9 12:49  transformer.jpg
+-rw-rw-r--  1 thecoderschool thecoderschool      2452 Oct 23 19:35  Turtle-1.png
+-rw-rw-r--  1 thecoderschool thecoderschool     12558 Oct 23 19:34  Turtle.png
+-rw-rw-r--  1 thecoderschool thecoderschool     20175 Oct  4 15:05  vector-fireball-on-black-background-260nw-227201023.png
+-rw-rw-r--  1 thecoderschool thecoderschool      4876 Oct  4 14:55  vector-fireball-on-black-background-260nw-227201023.webp
+-rw-rw-r--  1 thecoderschool thecoderschool    736158 Aug  2 15:07  wave.png
+-rw-rw-r--  1 thecoderschool thecoderschool    121706 Sep  6 17:27  YettiSpaghetti-removebg-preview.png
+thecoderschool@theCoderSchool:~/Downloads$ ls -la | grep deb\
+> ^C
+thecoderschool@theCoderSchool:~/Downloads$ ls -la | grep deb
+-rw-rw-r--  1 thecoderschool thecoderschool  65961404 Oct 29 18:09 Brackets.Release.1.14.64-bit.deb
+-rw-rw-r--  1 thecoderschool thecoderschool  54341964 Jul 19 14:13 code_1.36.1-1562627527_amd64.deb
+thecoderschool@theCoderSchool:~/Downloads$ sudo dpkg -i Brackets.Release.1.14.64-bit.deb \
+> ^C
+thecoderschool@theCoderSchool:~/Downloads$ sudo dpkg -i Brackets.Release.1.14.64-bit.deb
+[sudo] password for thecoderschool:
+Selecting previously unselected package brackets.
+(Reading database ... 165570 files and directories currently installed.)
+Preparing to unpack Brackets.Release.1.14.64-bit.deb ...
+Unpacking brackets (1.14.0-17740) ...
+dpkg: dependency problems prevent configuration of brackets:
+ brackets depends on gconf-service; however:
+  Package gconf-service is not installed.
+ brackets depends on libgconf-2-4 (>= 2.31.1); however:
+  Package libgconf-2-4 is not installed.
+ brackets depends on libpango1.0-0 (>= 1.22.0); however:
+  Package libpango1.0-0 is not installed.
+ brackets depends on libcurl3; however:
+  Package libcurl3 is not installed.
+
+dpkg: error processing package brackets (--install):
+ dependency problems - leaving unconfigured
+Processing triggers for menu (2.1.47ubuntu2.1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Errors were encountered while processing:
+ brackets
+thecoderschool@theCoderSchool:~/Downloads$ sudo add-apt repository ppa:webupd8team/brackets
+sudo: add-apt: command not found
+thecoderschool@theCoderSchool:~/Downloads$ sudo add-apt-repository ppa:webupd8team/brackets
+ Brackets is an open-source editor for web design and development built on top of web technologies such as HTML, CSS and JavaScript. The project was created and is maintained by Adobe, and is released under a MIT License.
+
+More info and PPA support @ http://www.webupd8.org/2013/11/install-brackets-in-ubuntu-via-ppa-open.html
+ More info: https://launchpad.net/~webupd8team/+archive/ubuntu/brackets
+Press [ENTER] to continue or Ctrl-c to cancel adding it.
+
+Hit:1 http://us.archive.ubuntu.com/ubuntu bionic InRelease
+Get:2 http://packages.microsoft.com/repos/vscode stable InRelease [3,938 B]
+Ign:3 http://packages.bodhilinux.com/bodhi bionic InRelease
+Get:4 http://ppa.launchpad.net/webupd8team/brackets/ubuntu bionic InRelease [15.4 kB]
+Get:5 http://packages.bodhilinux.com/bodhi bionic Release [4,551 B]
+Get:6 http://us.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+Ign:7 http://packages.bodhilinux.com/bodhi bionic Release.gpg
+Get:8 http://packages.bodhilinux.com/bodhi bionic/b5main i386 Packages [71.3 kB]
+Get:9 http://us.archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+Get:10 http://packages.bodhilinux.com/bodhi bionic/b5main amd64 Packages [70.3 kB]
+Get:11 http://packages.microsoft.com/repos/vscode stable/main amd64 Packages [148 kB]
+Get:12 http://ppa.launchpad.net/webupd8team/brackets/ubuntu bionic/main amd64 Packages [764 B]
+Get:13 http://us.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [767 kB]
+Get:14 http://ppa.launchpad.net/webupd8team/brackets/ubuntu bionic/main i386 Packages [760 B]
+Get:15 http://ppa.launchpad.net/webupd8team/brackets/ubuntu bionic/main Translation-en [308 B]
+Get:16 http://us.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [600 kB]
+Get:17 http://us.archive.ubuntu.com/ubuntu bionic-updates/main Translation-en [275 kB]
+Get:18 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted i386 Packages [8,600 B]
+Get:19 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted amd64 Packages [16.7 kB]
+Get:20 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted Translation-en [5,144 B]
+Get:21 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1,017 kB]
+Get:22 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [985 kB]
+Get:23 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe Translation-en [313 kB]
+Get:24 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 Packages [8,096 B]
+Get:25 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse i386 Packages [6,928 B]
+Get:26 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse Translation-en [3,972 B]
+Get:27 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe i386 Packages [4,020 B]
+Get:28 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 Packages [4,020 B]
+Get:29 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe Translation-en [1,856 B]
+Fetched 4,494 kB in 6s (693 kB/s)
+Reading package lists... Done
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt-get update\
+> ^C
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt-get update
+Ign:1 http://packages.bodhilinux.com/bodhi bionic InRelease
+Hit:2 http://packages.microsoft.com/repos/vscode stable InRelease
+Hit:3 http://us.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:4 http://packages.bodhilinux.com/bodhi bionic Release
+Ign:5 http://packages.bodhilinux.com/bodhi bionic Release.gpg
+Hit:6 http://us.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:7 http://ppa.launchpad.net/webupd8team/brackets/ubuntu bionic InRelease
+Hit:8 http://us.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Reading package lists... Done
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt-get install brackets
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+brackets is already the newest version (1.14.0-17740).
+You might want to run 'apt --fix-broken install' to correct these.
+The following packages have unmet dependencies:
+ brackets : Depends: gconf-service
+            Depends: libgconf-2-4 (>= 2.31.1) but it is not going to be installed
+            Depends: libpango1.0-0 (>= 1.22.0) but it is not going to be installed
+            Depends: libcurl3 but it is not going to be installed
+E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution).
+thecoderschool@theCoderSchool:~/Downloads$ apt --fix-broken intsall
+E: Command line option --fix-broken is not understood in combination with the other options
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt-get install brackets --fixbroken install
+E: Command line option --fixbroken is not understood in combination with the other options
+thecoderschool@theCoderSchool:~/Downloads$ apt --fix-broken install
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+thecoderschool@theCoderSchool:~/Downloads$ sudo
+usage: sudo -h | -K | -k | -V
+usage: sudo -v [-AknS] [-g group] [-h host] [-p prompt] [-u user]
+usage: sudo -l [-AknS] [-g group] [-h host] [-p prompt] [-U user] [-u user]
+            [command]
+usage: sudo [-AbEHknPS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p
+            prompt] [-T timeout] [-u user] [VAR=value] [-i|-s] [<command>]
+usage: sudo -e [-AknS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p
+            prompt] [-T timeout] [-u user] file ...
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt --fix-broken install
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Correcting dependencies... Done
+The following additional packages will be installed:
+  gconf-service gconf-service-backend gconf2-common libcurl3 libgconf-2-4
+  libpango1.0-0 libpangox-1.0-0
+The following packages will be REMOVED:
+  libcurl4
+The following NEW packages will be installed:
+Removing libcurl4:amd64 (7.58.0-2ubuntu3.7) ...
+Selecting previously unselected package libcurl3:amd64.
+(Reading database ... 180365 files and directories currently installed.)
+Preparing to unpack .../libcurl3_7.58.0-2ubuntu2_amd64.deb ...
+Unpacking libcurl3:amd64 (7.58.0-2ubuntu2) ...
+Setting up gconf2-common (3.2.6-4ubuntu1) ...
+
+Creating config file /etc/gconf/2/path with new version
+Setting up libcurl3:amd64 (7.58.0-2ubuntu2) ...
+Processing triggers for sgml-base (1.29) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Setting up libpangox-1.0-0:amd64 (0.0.2-5) ...
+Setting up libpango1.0-0:amd64 (1.40.14-1ubuntu0.1) ...
+Setting up libgconf-2-4:amd64 (3.2.6-4ubuntu1) ...
+Setting up gconf-service-backend (3.2.6-4ubuntu1) ...
+Setting up gconf-service (3.2.6-4ubuntu1) ...
+Setting up brackets (1.14.0-17740) ...
+xdg-icon-resource: size argument must be numeric
+Try 'xdg-icon-resource --help' for more information.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for menu (2.1.47ubuntu2.1) ...
+thecoderschool@theCoderSchool:~/Downloads$ sudo apt-get install brackets
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+brackets is already the newest version (1.14.0-17740).
+0 upgraded, 0 newly installed, 0 to remove and 268 not upgraded.
+thecoderschool@theCoderSchool:~/Downloads$ ls
+'150d3eaa-f3d5-4c21-b7f9-e8ba358a8680 (1).jpeg'
+ 150d3eaa-f3d5-4c21-b7f9-e8ba358a8680.jpeg
+ 250px-Dr._Octopus_Marvel.jpg
+ 267920952007201.jpg
+ 302ec1b1a634cbf0d27025d08785dbb5.png
+ 4d8349e217c1d18.png
+ 5b45874013041d7baa06206f3ff26fc2.png
+ 5e19eda0f70691e06d0e39dca123f5e4.png
+ 6996abffd81d6116a26e94805baa02a0.png
+ 7lk3m9_large.png
+ 86bdd3363462d26.png
+ ACQuqN.jpg
+ alien.png
+ alienspritesheet.png
+'Anime girl template (1).png'
+'Anime girl template.png'
+ background2.jpg
+ background.jpg
+ beachscene2.jpg
+ beachscene.jpg
+ beaker.png
+'BETTER anime girl.png'
+ bg.jpg
+ blank-1299404_960_720.png
+ Brackets.Release.1.14.64-bit.deb
+ briefcase10.jpg
+ briefcase11.jpg
+ briefcase12.jpg
+ briefcase13.jpg
+ briefcase14.jpg
+ briefcase15.jpg
+ briefcase16.jpg
+ briefcase17.jpg
+ briefcase19.jpg
+'briefcase (1).jpg'
+ briefcase1.jpg
+ briefcase20.jpg
+ briefcase21.jpg
+ briefcase22.jpg
+ briefcase23.jpg
+ briefcase24.jpg
+ briefcase25.jpg
+ briefcase26.jpg
+'briefcase (2).jpg'
+ briefcase2.jpg
+ briefcase3.jpg
+ briefcase4.jpg
+ briefcase5.jpg
+ briefcase6.jpg
+ briefcase7.jpg
+ briefcase8.jpg
+ briefcase9.jpg
+ briefcase.jpg
+ bumblebee.png
+ cloud.gif
+ code_1.36.1-1562627527_amd64.deb
+ condenser-microphone-clip-art-vector-images-amp-illustrations-microphone-clip-art-370_464.jpg
+ condenser-microphone-clip-art-vector-images-amp-illustrations-microphone-clip-art-370_464-removebg-preview.png
+ dino2.sprite3
+ dino.png
+ download.jpeg
+ download.png
+ earth.jpg
+'encrypted-tbn0_gstatic_com-images (1).png'
+'encrypted-tbn0_gstatic_com-images (2).png'
+ encrypted-tbn0_gstatic_com-images.png
+ F66CFA1D-B376-4ED5-8122-8267208C44B1.MOV
+ fireball.png
+'fire ball.webp'
+'flash_player_ppapi_linux.x86_64 (1).tar.gz'
+ flash_player_ppapi_linux.x86_64.tar.gz
+ flowermound-IMG_13021566933795-removebg-preview.png
+ giphy.gif
+ GitHubDesktopSetup.exe
+'Gryffindor Common Room.jpg'
+ heart-sprite-png.png
+'iorn man'
+'iorn man.jpg'
+ ketchup.htm
+ ketchup_png_750565.png
+ LGPL
+ libpepflashplayer.so
+ license.pdf
+ lightning.gif
+ manifest.json
+ moonbg.jpg
+ MTiZGmj.png
+ ninja-152415_640.png
+ notice.txt
+ octopus.png
+ OpenWorldTutorialStarterTemplate.zip
+ Paddle.sprite3
+ PinClipart.com_bikini-clipart_1325165.png
+ pinkmuffin.webp
+ piperthebird.jpeg
+ princess-cupcake-pink-cute-muffin-kawaii-queen-trucker-cap.webp
+'processing-3.5.3-linux64 (1).tgz'
+ processing-3.5.3-linux64.tgz
+ pusheen.gif
+ pusheen.png
+ readme.txt
+ red-transparent-line-1.png
+ rock.png
+ sans.jpeg
+ source.gif
+ Sprite4.sprite3
+ star.png
+ TITLE.png
+ transformer.jpg
+ Turtle-1.png
+ Turtle.png
+ vector-fireball-on-black-background-260nw-227201023.png
+ vector-fireball-on-black-background-260nw-227201023.webp
+ wave.png
+ YettiSpaghetti-removebg-preview.png
+thecoderschool@theCoderSchool:~/Downloads$ cd ..
+thecoderschool@theCoderSchool:~$ cd ..
+thecoderschool@theCoderSchool:/home$ ls
+thecoderschool
+thecoderschool@theCoderSchool:/home$ cd thecoderschool/
+thecoderschool@theCoderSchool:~$ ls
+ Desktop                  hardwar_info.html   PythonPlayground   Tutorials
+ desktop_background.jpg   PhaserPlayground    Sasha
+ Downloads                processing-3.5.3    setup.sh
+'Euler 1.py'              Programs            sketchbook
+thecoderschool@theCoderSchool:~$ cd Programs/
+thecoderschool@theCoderSchool:~/Programs$ ls
+John
+thecoderschool@theCoderSchool:~/Programs$ cd ..
+thecoderschool@theCoderSchool:~$ Desktop/
+bash: Desktop/: Is a directory
+thecoderschool@theCoderSchool:~$ cd D
+bash: cd: D: No such file or directory
+thecoderschool@theCoderSchool:~$ cd Desktop/
+thecoderschool@theCoderSchool:~/Desktop$ ls
+asasasas                      shot-2019-07-06_13-50-03.jpg
+ball.jpeg                     shot-2019-07-06_13-50-05.jpg
+bg.jpg                        shot-2019-08-03_12-51-36.jpg
+colosseum.jpeg                shot-2019-08-03_12-57-37.jpg
+dad.jpeg                      shot-2019-08-05_13-21-30.jpg
+DealOrNoDeal                  shot-2019-08-08_14-08-47.jpg
+DealOrNoDealUpdate2.jpg       shot-2019-09-24_17-03-59.jpg
+karate.jpg                    son.jpeg
+shot-2019-06-04_16-43-26.jpg  YetiSpaghetti
+shot-2019-06-04_16-43-27.jpg
+thecoderschool@theCoderSchool:~/Desktop$
