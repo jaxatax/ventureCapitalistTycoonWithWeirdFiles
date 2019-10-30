@@ -1,0 +1,46 @@
+COMMITTING AND PUSHING TO GITHUB:
+
+1. Add file to commit.
+
+git add <file>
+
+2. Commit.
+
+git commit -m "Commit message"
+
+3. Push.
+
+git push https://github.com/jaxatax/ventureCapitalistTycoon
+
+-------------------------------------------------------------------------------------------
+
+PULLING FROM GITHUB:
+
+git pull
+
+-------------------------------------------------------------------------------------------
+
+CLONING FROM A LOCAL REPOSITORY:
+
+git clone /path/to/repository
+
+CLONING FROM A REMOTE (INTERNET) REPOSITORY:
+
+1. cd (change directory) into the folder you want to clone to.
+2. git clone https://github.com/jaxatax/ventureCapitalistTycoon
+
+-------------------------------------------------------------------------------------------
+
+USEFUL LINUX COMMANDS:
+
+rm: This removes a file.
+rmdir: This removes a directory (folder).
+ls -a: The -a option shows hidden (invisible) files.
+rm *: The asterisk * means "all", be very careful about using the rm * command, as it will
+	   remove everything in the directory that you're currently in.
+vi: This is a text editor, just typing vi will enter you into it. There are three modes for vi. Command, Insert, 
+    and Escape mode. Enter Escape Mode by pressing :, Insert Mode by pressing i, and 
+    Command Mode by pressing Esc
+
+    To type text, hit 'i' (without the single quotes), and then begin typing. To save your work, hit : and then
+    type wq and hit enter. This will "write" and "quit".
